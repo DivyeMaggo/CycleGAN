@@ -4,7 +4,7 @@ CycleGAN has been essential to the field of unpaired image-to-image translation.
 All loss functions generated during model training
 ![image](https://github.com/user-attachments/assets/baba41e6-c36f-4250-b708-d00d046ff278)
 
-For the whole logs please go to https://wandb.ai/aiml23/CycleGan/runs/43akmgtg/overview
+I trained the model end-to-end to convert real-life landscape photos to the style in which Monet mighthave painted, if alive. The whole training logs are present here https://wandb.ai/aiml23/CycleGan/runs/43akmgtg/overview .
 
 
 
