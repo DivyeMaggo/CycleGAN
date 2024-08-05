@@ -1,6 +1,5 @@
-
-
 # CycleGAN
+CycleGAN has been essential to the field of unpaired image-to-image translation.The unique aspect of CycleGAN  is its ability to learn these translations in both directions. It comprises two main components: a generator and a discriminator. The generator transforms images from one domain to another, while the discriminator distinguishes between the generated images and real images. What sets CycleGAN [39] apart is its cycle-consistency principle, ensuring that if an image is transformed from domain A to domain B and back to domain A, it should resemble the original image. This cycle consistency constraint enables the model to preserve important visual characteristics during the transformation process.
 
 All loss functions generated during model training
 ![image](https://github.com/user-attachments/assets/baba41e6-c36f-4250-b708-d00d046ff278)
