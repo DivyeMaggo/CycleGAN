@@ -1,9 +1,13 @@
-<img src='imgs/horse2zebra.gif' align="right" width=384>
 
-<br><br><br>
 
 # CycleGAN
-### 
+
+All loss functions generated during model training
+![image](https://github.com/user-attachments/assets/baba41e6-c36f-4250-b708-d00d046ff278)
+
+For the whole logs please go to https://wandb.ai/aiml23/CycleGan/runs/43akmgtg/overview
+
+
 
 Torch implementation for learning an image-to-image translation (i.e. [pix2pix](https://github.com/phillipi/pix2pix)) **without** input-output pairs, for example:
 
